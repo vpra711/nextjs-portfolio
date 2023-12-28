@@ -1,1 +1,1 @@
-# nextjs-portfolio
+This project is setup to learn nextjs by building a portfolio and deploying it
